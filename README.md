@@ -9,7 +9,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Karthik%20Yarramraju&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Developer%20%7C%20ML%20Engineer%20%7C%20Python%20Enthusiast&descAlignY=60&descSize=18"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=650&lines=🤖+Building+AI+that+actually+works;🐍+Python+is+my+superpower;🚀+Turning+ideas+into+AI+products;🧠+Agentic+AI+%26+LLM+Explorer;⚡+99%25+uptime%2C+100%25+passion" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=650&lines=🤖+Building+AI+that+actually+works;🐍+Python+is+my+superpower;🚀+Turning+ideas+into+AI+products;🧠+Agentic+AI+%26+LLM+Explorer;⚡+99%25+uptime%2C+100%25+passion" />
 
 </div>
 
